@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POST Request">
+    <test name="ex04_POST_Request">
+        <classes>
+            <class name="org.autmationpractiseAswini.Ex04_POST_Request.ex09_POST_Request_NonBDDStyle"></class>
+        </classes>
+    </test>
+</suite>

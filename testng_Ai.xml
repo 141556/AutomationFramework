@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="RestAssured_TestSuite" verbose="1">
+    <test name="API_Test_Cases">
+        <packages>
+            <package name="org.autmationpractiseAswini.ex02_RA_TestNG_AllureReport"/>
+        </packages>
+    </test>
+</suite>
