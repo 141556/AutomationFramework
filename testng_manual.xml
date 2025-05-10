@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice">
+<test name="APIAutomationFramework">
+    <classes>
+        <class name="org.autmationpractiseAswini.ex02_RA_TestNG_AllureReport.APITesting_FixForMultiple_TC_TestNG"></class>
+    </classes>
+</test>
+
+</suite>
