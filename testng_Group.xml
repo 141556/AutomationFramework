@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TESTNG_GROUPS">
+    <test name="GROUPS">
+        <groups>
+            <run>
+                <include name="sanity"></include>
+<exclude name="P1"></exclude>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.autmationpractiseAswini.Ex_07_TestNG_Annotations.EX015_TestNG_Groups"></class>
+        </classes>
+    </test>
+</suite>

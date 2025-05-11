@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parameter">
+    <test name="Parameter">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="org.autmationpractiseAswini.Ex_07_TestNG_Annotations.EX017_TestNG_Parameters"></class>
+        </classes>
+    </test>
+</suite>

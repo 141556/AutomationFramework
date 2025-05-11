@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="RestAssured_TestSuite" verbose="1">
+    <test name="API_Test_Cases1">
+        <classes>
+            <class name="org.autmationpractiseAswini.Ex_07_TestNG_Annotations.Ex013_TestNG_BeforeAndAfter_Annotations"></class>
+        </classes>
+    </test>
+</suite>
