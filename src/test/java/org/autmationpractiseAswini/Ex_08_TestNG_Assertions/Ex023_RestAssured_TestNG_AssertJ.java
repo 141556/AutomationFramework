@@ -8,7 +8,6 @@ import org.hamcrest.Matchers;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
-
 import static org.assertj.core.api.Assertions.*;
 
 public class Ex023_RestAssured_TestNG_AssertJ {
